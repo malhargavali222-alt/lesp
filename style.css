@@ -140,6 +140,12 @@ header p{
     border-radius:.5rem;
     cursor:pointer;
     margin-top:.5rem;
+    text-decoration: none;
+}
+
+.dept{
+    text-decoration: none;
+    color: white;
 }
 
 #department button:hover{

@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.head{
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkred;
+    color: white;
+    text-align: center;
+    margin: 1rem;
+    font-weight: 500;
+}
+
+#about h2{
+     font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkred;
+    color: white;
+   border-radius: 2rem;
+   padding-left: 2rem;
+    margin: 3rem;
+}
+
+#about p{
+    font-size: 1.2rem;
+}
+
+#about img{
+    border-radius: 2rem;
+}
+
+#objective h2{
+     font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkred;
+    color: white;
+   border-radius: 2rem;
+   padding-left: 2rem;
+    margin: 3rem;
+}
+
+#objective li{
+font-size: 1.3rem;
+margin: 0.8rem;
+}
+
+#mission h2{
+     font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkred;
+    color: white;
+   border-radius: 2rem;
+   padding-left: 2rem;
+    margin: 3rem;
+}
+
+#gallery h2{
+     font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkred;
+    color: white;
+   border-radius: 2rem;
+   padding-left: 2rem;
+    margin: 3rem;
+}
+
+#gallery img{
+    margin: 2rem;
+    border-radius:80%;
+    width:100%;
+}
